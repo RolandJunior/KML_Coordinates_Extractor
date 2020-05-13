@@ -1,7 +1,7 @@
 # KML_Coordinates_Extractor
 Python program to extract coordinates from a KML file.
 
-* Extracts coordinates only from 'pins'.
+* Extracts coordinates only from 'pins'(tag <Point>).
 
 * Input file must be:
   * named "input.kml".
